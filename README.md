@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alysonlucas
 - 👀 I’m interested in learning computation language. 
-- 🌱 I’m currently learning C, HTML, CSS, and JAVASCRIPT.
+- 🌱 I’m currently learning C, C#, HTML, CSS, and JAVASCRIPT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
